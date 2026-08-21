@@ -4,5 +4,14 @@
     <title>DarkWorkers 영상 허브</title>
     <link>https://tukamoto-korea.github.io</link>
     <description>DarkWorkers 영상 허브 최신 영상 피드</description>
+    <language>ko</language>
+    <lastBuildDate>Fri, 21 Aug 2026 14:43:58 +0000</lastBuildDate>
+    <item>
+      <title>DarkWorkers 영상 허브 오픈</title>
+      <link>https://tukamoto-korea.github.io/</link>
+      <guid isPermaLink="true">https://tukamoto-korea.github.io/</guid>
+      <pubDate>Fri, 21 Aug 2026 14:43:58 +0000</pubDate>
+      <description>DarkWorkers 영상 허브가 열렸습니다. 새 영상이 이곳에 게시됩니다.</description>
+    </item>
   </channel>
 </rss>
