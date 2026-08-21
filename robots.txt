@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tukamoto-korea.github.io/sitemap.xml
