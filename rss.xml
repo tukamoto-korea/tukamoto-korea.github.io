@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DarkWorkers 영상 허브</title>
     <link>https://tukamoto-korea.github.io</link>
     <description>DarkWorkers 영상 허브 최신 영상 피드</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 21 Aug 2026 19:48:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:21:00 +0000</lastBuildDate>
+    <atom:link rel="self" type="application/rss+xml" href="https://tukamoto-korea.github.io/rss.xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
       <title>거상ㅣThe Great Merchant</title>
       <link>https://tukamoto-korea.github.io/watch/gersang/</link>
